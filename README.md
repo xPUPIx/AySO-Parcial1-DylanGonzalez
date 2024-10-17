@@ -1,4 +1,4 @@
-# AySO-Parcial1-JuanPerez
+# AySO-Parcial1-DylanGonzalez
 
 Nombre: Dylan Gabriel
 Apellido: Gonzalez
